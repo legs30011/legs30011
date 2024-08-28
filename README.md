@@ -1,26 +1,25 @@
-(![github image](![image](https://github.com/user-attachments/assets/966eeebb-421a-4ef4-b936-99a089f5f2c0)
-) 
+![GitHub Image](https://github.com/user-attachments/assets/966eeebb-421a-4ef4-b936-99a089f5f2c0)
 
-# ¡Hola, soy Luis Enrique Gamboa Salazar! 👋
+# Hi, I'm Luis Enrique Gamboa Salazar! 👋
 
-**💻 Un desarrollador apasionado por crear experiencias digitales increíbles**
+**💻 A passionate developer creating amazing digital experiences**
 
-Con un ☕ en una mano y un 💻 en la otra, me encanta transformar ideas en realidad. ¡Soy un entusiasta de la tecnología y siempre estoy buscando nuevos desafíos!
+With a ☕ in one hand and a 💻 in the other, I love turning ideas into reality. I'm a technology enthusiast always looking for new challenges!
 
 ---
 
-## 🛠️ **Mis Habilidades**
+## 🛠️ **My Skills**
 
 ### **Front-end**
-- **Lenguajes:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, Vue.js, Tailwind CSS
 
 ### **Back-end**
-- **Lenguajes:** Node.js, Python
+- **Languages:** Node.js, Python
 - **Frameworks:** Django, Flask
 - **APIs:** RESTful, GraphQL
 
-### **Bases de datos**
+### **Databases**
 - **SQL:** PostgreSQL
 - **NoSQL:** MongoDB
 
@@ -31,7 +30,7 @@ Con un ☕ en una mano y un 💻 en la otra, me encanta transformar ideas en rea
 
 ---
 
-## 📈 **Mis Estadísticas de GitHub**
+## 📈 **My GitHub Stats**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact)
@@ -57,32 +56,32 @@ Con un ☕ en una mano y un 💻 en la otra, me encanta transformar ideas en rea
 
 ---
 
-## 🚀 **Mis Proyectos**
+## 🚀 **My Projects**
 
-- **[Portfolio Personal](https://enriquegamboasalazar.netlify.app/):** Muestra mis mejores trabajos y habilidades.
-- **[App de Recetas](https://github.com/legs30011):** ¡Descubre nuevas recetas y comparte las tuyas! 👨‍🍳
-- **[Juego de Adivinar Números](https://github.com/legs30011):** ¡Pon a prueba tu suerte y diviértete! 🎲
+- **[Personal Portfolio](https://enriquegamboasalazar.netlify.app/):** Showcasing my best work and skills.
+- **[Recipe App](https://github.com/legs30011):** Discover new recipes and share yours! 👨‍🍳
+- **[Number Guessing Game](https://github.com/legs30011):** Test your luck and have fun! 🎲
 
 ---
 
-## 🌐 **¡Conéctate conmigo!**
+## 🌐 **Connect with Me!**
 
 - **📧 Email:** legs30011@gmail.com
 - **🔗 LinkedIn:** [www.linkedin.com/in/luis-enrique-gamboa-salazar](https://www.linkedin.com/in/luis-enrique-gamboa-salazar)
-- **🐙 GitHub:** [https://github.com/legs30011](https://github.com/legs30011) (¡Sígueme para estar al día de mis proyectos!)
+- **🐙 GitHub:** [https://github.com/legs30011](https://github.com/legs30011) (Follow me to stay updated on my projects!)
 
 ---
 
-## 🌱 **¡Siempre Aprendiendo!**
+## 🌱 **Always Learning!**
 
-Actualmente, estoy explorando el mundo del **Machine Learning** y la **Inteligencia Artificial** para crear aplicaciones aún más inteligentes. 
-
----
-
-## 🤝 **¡Colaboremos!**
-
-¿Tienes un proyecto en mente? ¡Contacta conmigo! Estoy abierto a nuevas oportunidades y a colaborar con otros desarrolladores apasionados.
+Currently exploring the world of **ReactJs** and **Tailwind** to create more cutting-edge applications.
 
 ---
 
-**¡Gracias por pasar por aquí!** 😄
+## 🤝 **Let's Collaborate!**
+
+Do you have a project in mind? Contact me! I'm open to new opportunities and collaborating with other passionate developers.
+
+---
+
+**Thanks for stopping by!** 😄
