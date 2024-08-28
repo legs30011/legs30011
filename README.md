@@ -1,4 +1,4 @@
-![Banner personalizado](![github image](https://github.com/user-attachments/assets/498df94b-e697-44fe-bcf4-a23a09e3cbee)
+(![github image](![image](https://github.com/user-attachments/assets/966eeebb-421a-4ef4-b936-99a089f5f2c0)
 ) 
 
 # ¡Hola, soy Luis Enrique Gamboa Salazar! 👋
