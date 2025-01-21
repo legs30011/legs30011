@@ -29,14 +29,13 @@ With a ☕ in one hand and a 💻 in the other, I love turning ideas into realit
 - **CI/CD:** Jenkins, GitHub Actions
 
 ---
-
 ## 📈 **My GitHub Stats**
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=legs30011&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=legs30011&theme=tokyonight&hide_border=true)  
 
 </div>
 
