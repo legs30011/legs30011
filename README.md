@@ -62,9 +62,14 @@ With a ☕ in one hand and a 💻 in the other, I love turning ideas into realit
 
 ## 🚀 **My Projects**
 
-- **[Personal Portfolio](https://enriquegamboasalazar.netlify.app/):** Showcasing my best work and skills.
-- **[Recipe App](https://github.com/legs30011):** Discover new recipes and share yours! 👨‍🍳
-- **[Number Guessing Game](https://github.com/legs30011):** Test your luck and have fun! 🎲
+## 📈 **My GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact&theme=tokyonight)  
+
+</div>
 
 ---
 
