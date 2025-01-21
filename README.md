@@ -32,8 +32,13 @@ With a ☕ in one hand and a 💻 in the other, I love turning ideas into realit
 
 ## 📈 **My GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=legs30011&theme=tokyonight&hide_border=true)  
+
+</div>
 
 ---
 
