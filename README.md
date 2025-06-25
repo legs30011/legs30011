@@ -1,96 +1,89 @@
-![GitHub Image](https://github.com/user-attachments/assets/966eeebb-421a-4ef4-b936-99a089f5f2c0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/966eeebb-421a-4ef4-b936-99a089f5f2c0" alt="Luis Enrique Gamboa Salazar" width="150" style="border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);">
+</p>
 
-# Hi, I'm Luis Enrique Gamboa Salazar! 👋
+# Greetings, I'm Luis Enrique Gamboa Salazar! 👋
 
-**💻 A passionate developer creating amazing digital experiences**
+## **Code Artisan | Digital Architect**
 
-With a ☕ in one hand and a 💻 in the other, I love turning ideas into reality. I'm a technology enthusiast always looking for new challenges!
-
----
-
-## 🛠️ **My Skills**
-
-### **Front-end**
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Vue.js, Tailwind CSS
-
-### **Back-end**
-- **Languages:** Node.js, Python
-- **Frameworks:** Django, Flask
-- **APIs:** RESTful, GraphQL
-
-### **Databases**
-- **SQL:** PostgreSQL
-- **NoSQL:** MongoDB
-
-### **Cloud & DevOps**
-- **Cloud Providers:** AWS, GCP
-- **DevOps Tools:** Docker, Kubernetes
-- **CI/CD:** Jenkins, GitHub Actions
-
----
-## 📈 **My GitHub Stats**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=legs30011&theme=tokyonight&hide_border=true)  
-
-</div>
+In an era of rapid innovation, I dedicate myself to **crafting robust and engaging digital experiences**. With a steadfast focus on detail and a penchant for problem-solving, I transform concepts into functional, elegant solutions. My journey is one of continuous learning and adaptation within the dynamic landscape of technology.
 
 ---
 
-## 📚 **Languages and Tools**
+## 🛠️ **My Toolkit & Expertise**
+
+### **Front-End Development**
+- **Core Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Modern Frameworks & Libraries:** React.js, Vue.js
+- **Styling Methodologies:** Tailwind CSS, Styled Components
+
+### **Back-End Engineering**
+- **Server-Side Languages:** Node.js, Python
+- **Frameworks:** Django, Flask (Python Microframework)
+- **API Design & Integration:** RESTful APIs, GraphQL
+
+### **Data Management**
+- **Relational Databases:** PostgreSQL
+- **NoSQL Solutions:** MongoDB
+
+### **Cloud Infrastructure & DevOps**
+- **Cloud Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP)
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **CI/CD Pipelines:** Jenkins, GitHub Actions
+
+---
+
+## 📚 **Technologies & Utilities**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ---
 
-## 🚀 **My Projects**
+## 🚀 **Portfolio of Works**
+*(Here, you'll want to list specific projects with links and brief descriptions. This section was empty in your original, so I'm leaving it as a placeholder.)*
 
-## 📈 **My GitHub Stats**
+---
+
+## 📊 **GitHub Metrics**
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact&theme=tokyonight)  
-
+  <img src="https://github-readme-stats.vercel.app/api?username=legs30011&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats" style="margin-right: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legs30011&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" style="margin-left: 15px;">
 </div>
 
 ---
 
-## 🌐 **Connect with Me!**
+## 🌐 **Connect & Collaborate**
 
-- **📧 Email:** legs30011@gmail.com
-- **🔗 LinkedIn:** [www.linkedin.com/in/luis-enrique-gamboa-salazar](https://www.linkedin.com/in/luis-enrique-gamboa-salazar)
-- **🐙 GitHub:** [https://github.com/legs30011](https://github.com/legs30011) (Follow me to stay updated on my projects!)
-
----
-
-## 🌱 **Always Learning!**
-
-Currently exploring the world of **ReactJs** and **Tailwind** to create more cutting-edge applications.
+- **📧 Electronic Mail:** legs30011@gmail.com
+- **🔗 Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/luis-enrique-gamboa-salazar)
+- **🐙 Code Repository:** [GitHub Profile](https://github.com/legs30011) (Follow for project updates and contributions!)
 
 ---
 
-## 🤝 **Let's Collaborate!**
+## 🌱 **Perpetual Pursuit of Knowledge**
 
-Do you have a project in mind? Contact me! I'm open to new opportunities and collaborating with other passionate developers.
+Currently immersing myself in the advanced paradigms of **React.js** and mastering the efficiencies of **Tailwind CSS** to construct the next generation of web applications.
 
 ---
 
-**Thanks for stopping by!** 😄
+## 🤝 **Open for Engagement**
+
+Should you have an intriguing project, a concept to discuss, or a collaboration opportunity, please do not hesitate to reach out. I am receptive to new ventures and working alongside fellow innovative minds.
+
+---
+
+**Appreciate your visit!**
