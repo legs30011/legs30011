@@ -2,38 +2,41 @@ name: Generate contribution snake 🐍
 
 # ─────── PERMISOS DEL TOKEN AUTOMÁTICO ───────
 permissions:
-  contents: write             # le da permiso de push al GITHUB_TOKEN
+  contents: write           # habilita push con GITHUB_TOKEN
 
 on:
   schedule:
-    - cron: "0 0 * * *"       # cada noche UTC
-  workflow_dispatch:          # botón “Run workflow”
+    - cron: "0 0 * * *"     # cada noche UTC
+  workflow_dispatch:        # botón “Run workflow”
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1 · Clonar repo completo
+      # 1 · Clonar el repo completo
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0      # necesario para hacer push a otra rama
+          fetch-depth: 0     # necesario para empujar a otra rama
 
-      # 2 · Generar SVG
+      # 2 · Generar los SVG (claro y oscuro)
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: "legs30011"
           outputs: |
             github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 3 · Commit & push a la rama `output`
       - name: Commit & push to output
         uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # ✔ parámetro correcto
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           default_author: github_actions
           message: "chore: update contribution snake"
-          add: "github-contribution-grid-snake.svg"
-          new_branch: output                          # crea si no existe
-          push: --force-with-lease                    # resuelve el non‑fast‑forward
+          add: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg
+          new_branch: output          # crea si no existe
+          push: --force-with-lease    # resuelve non‑fast‑forward
