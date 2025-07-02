@@ -1,18 +1,22 @@
 name: Generate contribution snake 🐍
 
 on:
-  # Todos los días a medianoche UTC
   schedule:
-    - cron: "0 0 * * *"
-  # Para lanzarlo manualmente desde la pestaña Actions
-  workflow_dispatch:
+    - cron: "0 0 * * *"           # todos los días a las 00 UTC
+  workflow_dispatch:               # correrlo manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1 · Genera el SVG
+      # 1 · Clonar el repo (indispensable para poder commitear)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # necesitamos el histórico completo para empujar a otra rama
+
+      # 2 · Generar el SVG
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
@@ -20,10 +24,11 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
 
-      # 2 · Commit & push en la rama `output`
-      - name: Commit & push
+      # 3 · Commit & push a la rama 'output'
+      - name: Commit & push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          branch: "output"
+          default_author: github_actions
           message: "chore: update contribution snake"
           add: "github-contribution-grid-snake.svg"
+          push: "origin HEAD:output"     # crea/actualiza la rama `output`
