@@ -1,24 +1,23 @@
 name: Generate contribution snake 🐍
 
-# ────────── PERMISOS DEL TOKEN ──────────
-# Le damos permiso de escritura al contenido del repo
+# ─────── PERMISOS DEL TOKEN AUTOMÁTICO ───────
 permissions:
-  contents: write
+  contents: write             # le da permiso de push al GITHUB_TOKEN
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"       # cada noche UTC
+  workflow_dispatch:          # botón “Run workflow”
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1 · Checkout
+      # 1 · Clonar repo completo
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0      # necesario para hacer push a otra rama
 
       # 2 · Generar SVG
       - name: Generate snake SVG
@@ -28,13 +27,13 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
 
-      # 3 · Commit & push (con token de Actions)
-      - name: Commit & push to output branch
+      # 3 · Commit & push a la rama `output`
+      - name: Commit & push to output
         uses: EndBug/add-and-commit@v9
         with:
-          # 👉 pasamos el token con permisos de escritura
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # ✔ parámetro correcto
           default_author: github_actions
           message: "chore: update contribution snake"
           add: "github-contribution-grid-snake.svg"
-          push: "origin HEAD:output"
+          new_branch: output                          # crea si no existe
+          push: --force-with-lease                    # resuelve el non‑fast‑forward
