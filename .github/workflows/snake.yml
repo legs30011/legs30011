@@ -38,5 +38,7 @@ jobs:
           add: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg
-          new_branch: output          # crea si no existe
-          push: --force-with-lease    # resuelve non‑fast‑forward
+          new_branch: output
+          # ⬇️  establece upstream y fuerza solo si no hay cambios externos
+          push: origin HEAD:output --force-with-lease
+
